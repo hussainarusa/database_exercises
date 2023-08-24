@@ -1,4 +1,4 @@
-USE employees.db;
+USE employees;
 
 SELECT DISTINCT last_name
 FROM employees
